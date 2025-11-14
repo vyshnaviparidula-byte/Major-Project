@@ -89,6 +89,4 @@ Once the system is powered on and connected to Wi-Fi, it will automatically begi
   * **Predictive Maintenance:** Implement machine learning models to predict actuator failures or required maintenance based on historical usage data.
 
 
-  * [Contributor Name] - *Firmware/Cloud Developer*
-
-*(List any individuals or organizations that contributed to the project.)*
+ 
